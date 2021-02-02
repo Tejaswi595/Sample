@@ -1,1 +1,4 @@
 hello teju
+- George Washington
+- John Adams
+- Thomas Jefferson
